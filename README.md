@@ -1,6 +1,9 @@
 Hangman - console version of paper and pencil guessing game for two or more players
+
 ver.: 4.0, reading from file
+
 wiki: https://en.wikipedia.org/wiki/Hangman_(game)
+
 Created by v.n.zubarev@gmail.com on 10/10/18
 
 

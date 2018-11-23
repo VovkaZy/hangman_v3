@@ -2,7 +2,7 @@
 
 ver.: 4.0, reading from file
 
-Created by v.n.zubarev@gmail.com on 10/10/18
+Created by v.n.zubarev@gmail.com on *10/10/18*
 
 
 1). First, clone this repo to your laptop or computer using terminal (command line): `git clone https://github.com/VovkaZy/hangman_v4.git`

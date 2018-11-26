@@ -13,4 +13,4 @@ Created by v.n.zubarev@gmail.com on *10/10/18*
 
 4). Enjoy and have fun :)
 
-P.S.: If you want to add or change words which you or your partner have to guess, just open file words.txt in `./data` directory add your words there and save it.
+> P.S.: If you want to add or change words which you or your partner have to guess, just open file words.txt in `./data` directory add your words there and save it.
